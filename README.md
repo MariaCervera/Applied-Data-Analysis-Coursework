@@ -2,6 +2,6 @@
 
 Group:
 
-Claire Lugrin
-Clémentine Aguet
+Claire Lugrin,
+Clémentine Aguet,
 Maria Cervera
