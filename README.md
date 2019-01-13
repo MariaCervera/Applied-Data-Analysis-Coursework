@@ -2,7 +2,7 @@
 
 <a href="https://dlab.epfl.ch/teaching/fall2018/cs401/">https://dlab.epfl.ch/teaching/fall2018/cs401/</a>
 
-semester 2016
+Fall semester 2016
 
 Work done by:
 Claire Lugrin,
